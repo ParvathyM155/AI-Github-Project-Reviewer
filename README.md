@@ -8,13 +8,13 @@
 
 > An AI-powered tool that analyzes GitHub project READMEs...
 
-🔗 **Live Demo**: [github-project-reviewer.streamlit.app](https://yourname-github-project-reviewer.streamlit.app)
+🔗 **Live Demo**: [github-project-reviewer.streamlit.app](https://ai-app-project-reviewer-se5svmfe6autuqdbr8wqca.streamlit.app/)
 
 ---
 
 ## 📸 Demo
 
-🚀 **[Try it live →](https://yourname-github-project-reviewer.streamlit.app)**
+🚀 **[Try it live →](https://ai-app-project-reviewer-se5svmfe6autuqdbr8wqca.streamlit.app/)**
 
 ![App Demo](demo.gif)
 
