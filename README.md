@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-Built as a BCA Minor Project — *AI GitHub Project Reviewer*
+Built as a Minor Project — *AI GitHub Project Reviewer*
 
 ---
 
