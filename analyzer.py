@@ -5,6 +5,17 @@ No heavy ML model needed — this still looks very AI/ML powered.
 """
 
 import re
+import nltk
+import os
+
+# Download required NLTK data (runs silently on Streamlit Cloud)
+nltk_data_path = os.path.join(os.path.expanduser("~"), "nltk_data")
+for corpus in ["punkt", "brown", "averaged_perceptron_tagger", "wordnet"]:
+    try:
+        nltk.download(corpus, quiet=True, download_dir=nltk_data_path)
+    except Exception:
+        pass
+
 from textblob import TextBlob
 
 # ── Tech Stack Keywords ───────────────────────────────────────────────────────
