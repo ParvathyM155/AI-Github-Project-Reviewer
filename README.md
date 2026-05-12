@@ -6,13 +6,17 @@
 ![NLP](https://img.shields.io/badge/NLP-TextBlob-blue?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> An AI-powered tool that analyzes GitHub project READMEs and gives students recruiter-grade feedback on their portfolio projects.
+> An AI-powered tool that analyzes GitHub project READMEs...
+
+🔗 **Live Demo**: [github-project-reviewer.streamlit.app](https://yourname-github-project-reviewer.streamlit.app)
 
 ---
 
 ## 📸 Demo
 
-> *Add a screenshot or GIF of your app here after running it.*
+🚀 **[Try it live →](https://yourname-github-project-reviewer.streamlit.app)**
+
+![App Demo](demo.gif)
 
 ---
 
@@ -136,7 +140,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-Built as a BCA Minor Project — *AI GitHub Project Reviewer*
+Built as a Minor Project — *AI GitHub Project Reviewer*
 
 ---
 
