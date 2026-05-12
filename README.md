@@ -16,7 +16,9 @@
 
 🚀 **[Try it live →](https://ai-app-project-reviewer-se5svmfe6autuqdbr8wqca.streamlit.app/)**
 
-![App Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="900"/>
+</p>
 
 ---
 
